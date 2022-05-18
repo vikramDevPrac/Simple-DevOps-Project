@@ -7,7 +7,7 @@ Jenkins is a self-contained Java-based program, ready to run out-of-the-box, wit
 1. EC2 Instance 
    - With Internet Access
    - Security Group with Port `8080` open for internet
-1. Java 11 should be installed  
+1. Java v1.8x should be installed  
 
 
 ## Install Jenkins
